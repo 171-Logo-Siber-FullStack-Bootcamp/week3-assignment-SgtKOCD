@@ -4,3 +4,6 @@
 - Login ve Menu kısımlarının bulanacağı React Native App oluşturulacak
 - JSONPlaceholder API ve axios kullanarak postlar listelenecek
 - Son tarih: 20.02.2022 14:00
+
+
+- expo ve firebase ile bir çok sorun yaşadım projeyi az buçuk tamamlamayı denedim
